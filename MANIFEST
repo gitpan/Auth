@@ -1,0 +1,12 @@
+Auth.pm
+Auth/Login.pm
+Auth/GUI.pm
+Auth/gui.wxg
+Auth/Ticket.pm
+Auth/Backend/SQL.pm
+Changes
+Makefile.PL
+MANIFEST
+README
+test.pl
+
